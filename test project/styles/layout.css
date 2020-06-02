@@ -1,0 +1,31 @@
+#fname {
+  width: 50%;
+}
+#lname {
+  width: 85%;
+}
+#number3 {
+  width: 50%;
+}
+h2 {
+	padding-top: 6px;
+}
+
+#box1 {
+  width: 15%;
+  padding-left: 278px;
+}
+
+#box2 {
+  width: 9%;
+  padding-left: 70px;
+}
+
+#box3 {
+  width: 15%;
+}
+#box4 {
+  width: 9%;
+  padding-left: 70px;
+  padding-right:250px; 
+}
